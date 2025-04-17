@@ -23,7 +23,8 @@ Tools: Git,VS Code, Adobe Illustrator, Figma
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heumou-Fraidy&show_icons=true&theme=radical)
 
 ## 🔝 Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Heumou-Fraidy&repo=&theme=radical)](https://github.com/Heumou-Fraidy/)
+
+
 
 ## 📫 How to reach me
 - 📧 Email: Fraidyheumou@gmail.com
