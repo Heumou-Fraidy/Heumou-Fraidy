@@ -23,7 +23,7 @@ Tools: Git,VS Code, Adobe Illustrator, Figma
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Heumou-Fraidy&show_icons=true&theme=radical)
 
 ## 🔝 Top Repositories
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Heumou-Fraidy&repo=Ai-Health-assistant&theme=radical)](https://github.com/Heumou-Fraidy/Ai-Health-assistante)
+[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Heumou-Fraidy&repo=&theme=radical)](https://github.com/Heumou-Fraidy/)
 
 ## 📫 How to reach me
 - 📧 Email: Fraidyheumou@gmail.com
@@ -40,7 +40,7 @@ Tools: Git,VS Code, Adobe Illustrator, Figma
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
   <br>
   <i>Let's build something amazing together!</i>
 </p>
