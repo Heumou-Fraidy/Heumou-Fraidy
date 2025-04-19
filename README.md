@@ -1,9 +1,6 @@
 # 👋 Hello World, I'm Heumou Fraidy!
 
-![Profile Views](https://komarev.com/ghpvc/?username=Heumou-Fraidy&color=blue)
-
-## 💫 About Me
-I'm a passionate front end developer and designer with an interest in turning ideas into reality through code. Welcome to my world!
+I'm a passionate front end developer and designer with an interest in turning ideas into reality through code.
 
 ## 👀 I'm interested in
 - Web Development. - Designing. - Artificial Intelligence. - Mobile Development
@@ -39,11 +36,6 @@ I'm a passionate front end developer and designer with an interest in turning id
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
   
 </div>
-
-
-## 🌱 I'm currently learning
-- Cloud computing 
-- Machine Learning 
 
 # 📊 GitHub Stats
 
