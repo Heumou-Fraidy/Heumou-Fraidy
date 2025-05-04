@@ -41,7 +41,7 @@ I'm a passionate front end developer and designer with an interest in turning id
 
 <div align="center">
   
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Heumou-Fraidy&show_icons=true&theme=radical)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heumou-Fraidy&theme=radical)
+   ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Heumou-Fraidy&show_icons=true&theme=radical)   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heumou-Fraidy&theme=radical)
   
   
 </div>  
